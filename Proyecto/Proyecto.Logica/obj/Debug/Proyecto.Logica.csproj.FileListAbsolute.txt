@@ -1,0 +1,24 @@
+C:\Users\andre\source\repos\Proyecto\Proyecto.Logica\bin\Debug\Proyecto.Logica.dll
+C:\Users\andre\source\repos\Proyecto\Proyecto.Logica\bin\Debug\Proyecto.Logica.pdb
+C:\Users\andre\source\repos\Proyecto\Proyecto.Logica\obj\Debug\Proyecto.Logica.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\Proyecto\Proyecto.Logica\obj\Debug\Proyecto.Logica.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Proyecto\Proyecto.Logica\obj\Debug\Proyecto.Logica.dll
+C:\Users\andre\source\repos\Proyecto\Proyecto.Logica\obj\Debug\Proyecto.Logica.pdb
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.Logica\bin\Debug\Proyecto.Logica.dll
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.Logica\bin\Debug\Proyecto.Logica.pdb
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.Logica\obj\Debug\Proyecto.Logica.csprojAssemblyReference.cache
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.Logica\obj\Debug\Proyecto.Logica.csproj.CoreCompileInputs.cache
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.Logica\obj\Debug\Proyecto.Logica.dll
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.Logica\obj\Debug\Proyecto.Logica.pdb
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.Logica\bin\Debug\Proyecto.Logica.dll
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.Logica\bin\Debug\Proyecto.Logica.pdb
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.Logica\obj\Debug\Proyecto.Logica.csprojAssemblyReference.cache
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.Logica\obj\Debug\Proyecto.Logica.csproj.CoreCompileInputs.cache
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.Logica\obj\Debug\Proyecto.Logica.dll
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.Logica\obj\Debug\Proyecto.Logica.pdb
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.Logica\bin\Debug\Proyecto.Logica.dll
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.Logica\bin\Debug\Proyecto.Logica.pdb
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.Logica\obj\Debug\Proyecto.Logica.csprojAssemblyReference.cache
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.Logica\obj\Debug\Proyecto.Logica.csproj.CoreCompileInputs.cache
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.Logica\obj\Debug\Proyecto.Logica.dll
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.Logica\obj\Debug\Proyecto.Logica.pdb

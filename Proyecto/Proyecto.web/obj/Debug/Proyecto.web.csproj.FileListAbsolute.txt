@@ -1,0 +1,240 @@
+c:\users\andre\source\repos\Proyecto\Proyecto.web\bin\Proyecto.web.dll.config
+c:\users\andre\source\repos\Proyecto\Proyecto.web\bin\Proyecto.web.dll
+c:\users\andre\source\repos\Proyecto\Proyecto.web\bin\Proyecto.web.pdb
+c:\users\andre\source\repos\Proyecto\Proyecto.web\bin\roslyn\csc.exe
+c:\users\andre\source\repos\Proyecto\Proyecto.web\bin\roslyn\csc.exe.config
+c:\users\andre\source\repos\Proyecto\Proyecto.web\bin\roslyn\csc.rsp
+c:\users\andre\source\repos\Proyecto\Proyecto.web\bin\roslyn\csi.exe
+c:\users\andre\source\repos\Proyecto\Proyecto.web\bin\roslyn\csi.exe.config
+c:\users\andre\source\repos\Proyecto\Proyecto.web\bin\roslyn\csi.rsp
+c:\users\andre\source\repos\Proyecto\Proyecto.web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\andre\source\repos\Proyecto\Proyecto.web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\andre\source\repos\Proyecto\Proyecto.web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\andre\source\repos\Proyecto\Proyecto.web\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\andre\source\repos\Proyecto\Proyecto.web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\andre\source\repos\Proyecto\Proyecto.web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\andre\source\repos\Proyecto\Proyecto.web\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\andre\source\repos\Proyecto\Proyecto.web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\andre\source\repos\Proyecto\Proyecto.web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\andre\source\repos\Proyecto\Proyecto.web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\andre\source\repos\Proyecto\Proyecto.web\bin\roslyn\Microsoft.Win32.Primitives.dll
+c:\users\andre\source\repos\Proyecto\Proyecto.web\bin\roslyn\System.AppContext.dll
+c:\users\andre\source\repos\Proyecto\Proyecto.web\bin\roslyn\System.Collections.Immutable.dll
+c:\users\andre\source\repos\Proyecto\Proyecto.web\bin\roslyn\System.Console.dll
+c:\users\andre\source\repos\Proyecto\Proyecto.web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\users\andre\source\repos\Proyecto\Proyecto.web\bin\roslyn\System.Diagnostics.Process.dll
+c:\users\andre\source\repos\Proyecto\Proyecto.web\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\andre\source\repos\Proyecto\Proyecto.web\bin\roslyn\System.IO.Compression.dll
+c:\users\andre\source\repos\Proyecto\Proyecto.web\bin\roslyn\System.IO.FileSystem.dll
+c:\users\andre\source\repos\Proyecto\Proyecto.web\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+c:\users\andre\source\repos\Proyecto\Proyecto.web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\andre\source\repos\Proyecto\Proyecto.web\bin\roslyn\System.IO.Pipes.dll
+c:\users\andre\source\repos\Proyecto\Proyecto.web\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\andre\source\repos\Proyecto\Proyecto.web\bin\roslyn\System.Security.AccessControl.dll
+c:\users\andre\source\repos\Proyecto\Proyecto.web\bin\roslyn\System.Security.Claims.dll
+c:\users\andre\source\repos\Proyecto\Proyecto.web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\users\andre\source\repos\Proyecto\Proyecto.web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\users\andre\source\repos\Proyecto\Proyecto.web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\users\andre\source\repos\Proyecto\Proyecto.web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\users\andre\source\repos\Proyecto\Proyecto.web\bin\roslyn\System.Security.Principal.Windows.dll
+c:\users\andre\source\repos\Proyecto\Proyecto.web\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\users\andre\source\repos\Proyecto\Proyecto.web\bin\roslyn\System.Threading.Thread.dll
+c:\users\andre\source\repos\Proyecto\Proyecto.web\bin\roslyn\System.ValueTuple.dll
+c:\users\andre\source\repos\Proyecto\Proyecto.web\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\users\andre\source\repos\Proyecto\Proyecto.web\bin\roslyn\System.Xml.XmlDocument.dll
+c:\users\andre\source\repos\Proyecto\Proyecto.web\bin\roslyn\System.Xml.XPath.dll
+c:\users\andre\source\repos\Proyecto\Proyecto.web\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\users\andre\source\repos\Proyecto\Proyecto.web\bin\roslyn\vbc.exe
+c:\users\andre\source\repos\Proyecto\Proyecto.web\bin\roslyn\vbc.exe.config
+c:\users\andre\source\repos\Proyecto\Proyecto.web\bin\roslyn\vbc.rsp
+c:\users\andre\source\repos\Proyecto\Proyecto.web\bin\roslyn\VBCSCompiler.exe
+c:\users\andre\source\repos\Proyecto\Proyecto.web\bin\roslyn\VBCSCompiler.exe.config
+c:\users\andre\source\repos\Proyecto\Proyecto.web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\andre\source\repos\Proyecto\Proyecto.web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\andre\source\repos\Proyecto\Proyecto.web\obj\Debug\Proyecto.web.csprojAssemblyReference.cache
+c:\users\andre\source\repos\Proyecto\Proyecto.web\obj\Debug\Proyecto.web.csproj.CoreCompileInputs.cache
+c:\users\andre\source\repos\Proyecto\Proyecto.web\obj\Debug\Proyecto.web.csproj.CopyComplete
+c:\users\andre\source\repos\Proyecto\Proyecto.web\obj\Debug\Proyecto.web.dll
+c:\users\andre\source\repos\Proyecto\Proyecto.web\obj\Debug\Proyecto.web.pdb
+C:\Users\andre\source\repos\Proyecto\Proyecto.web\bin\Proyecto.Logica.dll
+C:\Users\andre\source\repos\Proyecto\Proyecto.web\bin\Proyecto.Logica.pdb
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\Proyecto.web.dll.config
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\Proyecto.web.dll
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\Proyecto.web.pdb
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\csc.exe
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\csc.exe.config
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\csc.rsp
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\csi.exe
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\csi.exe.config
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\csi.rsp
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.AppContext.dll
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.Collections.Immutable.dll
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.Console.dll
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.Diagnostics.Process.dll
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.IO.Compression.dll
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.IO.FileSystem.dll
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.IO.Pipes.dll
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.Reflection.Metadata.dll
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.Security.AccessControl.dll
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.Security.Claims.dll
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.Threading.Thread.dll
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.ValueTuple.dll
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.Xml.XPath.dll
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\vbc.exe
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\vbc.exe.config
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\vbc.rsp
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\VBCSCompiler.exe
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\VBCSCompiler.exe.config
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\Proyecto.Logica.dll
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\Proyecto.Logica.pdb
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\obj\Debug\Proyecto.web.csprojAssemblyReference.cache
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\obj\Debug\Proyecto.web.csproj.CoreCompileInputs.cache
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\obj\Debug\Proyecto.web.csproj.CopyComplete
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\obj\Debug\Proyecto.web.dll
+E:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\obj\Debug\Proyecto.web.pdb
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\Proyecto.web.dll.config
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\Proyecto.web.dll
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\Proyecto.web.pdb
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\csc.exe
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\csc.exe.config
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\csc.rsp
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\csi.exe
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\csi.exe.config
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\csi.rsp
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.AppContext.dll
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.Collections.Immutable.dll
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.Console.dll
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.Diagnostics.Process.dll
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.IO.Compression.dll
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.IO.FileSystem.dll
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.IO.Pipes.dll
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.Reflection.Metadata.dll
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.Security.AccessControl.dll
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.Security.Claims.dll
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.Threading.Thread.dll
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.ValueTuple.dll
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.Xml.XPath.dll
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\vbc.exe
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\vbc.exe.config
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\vbc.rsp
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\VBCSCompiler.exe
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\VBCSCompiler.exe.config
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\Proyecto.Logica.dll
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\Proyecto.Logica.pdb
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\obj\Debug\Proyecto.web.csprojAssemblyReference.cache
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\obj\Debug\Proyecto.web.csproj.CoreCompileInputs.cache
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\obj\Debug\Proyecto.web.csproj.CopyComplete
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\obj\Debug\Proyecto.web.dll
+F:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\obj\Debug\Proyecto.web.pdb
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\Proyecto.web.dll.config
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\Proyecto.web.dll
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\Proyecto.web.pdb
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\csc.exe
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\csc.exe.config
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\csc.rsp
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\csi.exe
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\csi.exe.config
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\csi.rsp
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.AppContext.dll
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.Collections.Immutable.dll
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.Console.dll
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.Diagnostics.Process.dll
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.IO.Compression.dll
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.IO.FileSystem.dll
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.IO.Pipes.dll
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.Reflection.Metadata.dll
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.Security.AccessControl.dll
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.Security.Claims.dll
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.Security.Principal.Windows.dll
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.Threading.Thread.dll
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.ValueTuple.dll
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.Xml.XPath.dll
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\vbc.exe
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\vbc.exe.config
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\vbc.rsp
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\VBCSCompiler.exe
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\roslyn\VBCSCompiler.exe.config
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\Proyecto.Logica.dll
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\Proyecto.Logica.pdb
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\obj\Debug\Proyecto.web.csprojAssemblyReference.cache
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\obj\Debug\Proyecto.web.csproj.CoreCompileInputs.cache
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\obj\Debug\Proyecto.web.csproj.CopyComplete
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\obj\Debug\Proyecto.web.dll
+G:\Proyecto integrador\Proyecto\Proyecto\Proyecto.web\obj\Debug\Proyecto.web.pdb
